@@ -4,5 +4,5 @@
 //
 //  Created by Jason Alexander on 10/14/25.
 //
-@_exported import TrafficAuthV2XClient
+@_exported import trafficauth_v2xclient_ios
 
