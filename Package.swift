@@ -26,9 +26,6 @@ let package = Package(
             url: "https://iss-trafficauth.s3.us-west-2.amazonaws.com/TrafficAuthV2XClientReleases/releases/0.0.6/TrafficAuthV2XClient.xcframework.zip",
             checksum: "c6ca95a62945f1c599a1343551bf8e5a212be032c9cb38d27fb183eed2f643af"
         ),
-        .binaryTarget(name: "TrafficAuthV2XClientDocumentation",
-                      path: "./TrafficAuthV2XClient.doccarchive"
-                     ),
         .target(
             name: "TrafficAuthV2XClient",
             dependencies: [
