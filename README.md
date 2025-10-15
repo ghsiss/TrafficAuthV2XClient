@@ -20,7 +20,8 @@ dependencies: [
 
 ## Documentation
 
-Documenation is available as a .doccarchive, and is hosted on Swift Package Index
+Documenation is available as statically hosted at https://ghsiss.github.io/TrafficAuthV2XClient/documentation/trafficauth_v2xclient_ios/, and is hosted on Swift Package Index.
+
 
 ## Getting Started
 
