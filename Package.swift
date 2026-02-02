@@ -18,13 +18,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "libEncoderLib",
-            url: "https://iss-trafficauth.s3.us-west-2.amazonaws.com/TrafficAuthV2XClientReleases/releases/0.0.7/libEncoderLib.xcframework.zip",
+            url: "https://iss-trafficauth.s3.us-west-2.amazonaws.com/TrafficAuthV2XClientReleases/releases/0.0.8/libEncoderLib.xcframework.zip",
             checksum: "3d444711471e869b7c878ebf383062b3ce3962f3e51ca6752e34462de0de3e3e"
         ),
         .binaryTarget(
             name: "trafficauth_v2xclient_ios",
-            url: "https://iss-trafficauth.s3.us-west-2.amazonaws.com/TrafficAuthV2XClientReleases/releases/0.0.7/TrafficAuthV2XClient.xcframework.zip",
-            checksum: "10c9986d9bcb1cf7a16b237424358f140caf2ff66ac2bfe46e8b9fd3ce55c747"
+            url: "https://iss-trafficauth.s3.us-west-2.amazonaws.com/TrafficAuthV2XClientReleases/releases/0.0.8/TrafficAuthV2XClient.xcframework.zip",
+            checksum: "e91228b9ac5dbe8eb8a5baf891921e213e13eb32436f74e9de23ef5deaaebb94"
         ),
         .target(
             name: "TrafficAuthV2XClient",
