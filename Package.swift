@@ -24,7 +24,7 @@ let package = Package(
         .binaryTarget(
             name: "trafficauth_v2xclient_ios",
             url: "https://iss-trafficauth.s3.us-west-2.amazonaws.com/TrafficAuthV2XClientReleases/releases/0.0.12/TrafficAuthV2XClient.xcframework.zip",
-            checksum: "d3510d00fd3d5e9353aab029fba97f6bbc8d38d0742ebc7784db0dc0e9de4ebb"
+            checksum: "01568ddb7214a42bed89f5b9b65b2d228e903e49ee41fb91d30971284d3b0bc3"
         ),
         .target(
             name: "TrafficAuthV2XClient",
