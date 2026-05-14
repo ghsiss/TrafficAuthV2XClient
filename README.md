@@ -1,5 +1,9 @@
 Copyright © INTEGRITY Security Services LLC
 
+> [!IMPORTANT]
+> **End of Life Notice:** This SDK is no longer maintained. If you are looking for the current V2X SDK, please use [TrafficAuth-SDK](https://github.com/TrafficAuth/trafficauth-sdk-ios) instead.
+
+
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fghsiss%2FTrafficAuthV2XClient%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/ghsiss/TrafficAuthV2XClient)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fghsiss%2FTrafficAuthV2XClient%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/ghsiss/TrafficAuthV2XClient)
 
